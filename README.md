@@ -9,6 +9,8 @@ IW3SR is a client modification for Call of Duty 4 powered by IzEngine. Enhance g
 
 ## Download
 ***IW3SR is currently in beta and is not stable yet.***
+
+*Unzip IW3SR.zip into Call of Duty 4 directory.*
 ### [Download](https://github.com/Iswenzz/IW3SR.Release/releases)
 
 ## Contributors
