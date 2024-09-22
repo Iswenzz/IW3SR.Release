@@ -1,6 +1,5 @@
 # IW3SR
 
-[![Checks](https://img.shields.io/github/checks-status/Iswenzz/IW3SR.Release/master?logo=github)](https://github.com/Iswenzz/IW3SR.Release/actions)
 [![License](https://img.shields.io/github/license/Iswenzz/IW3SR.Release?color=blue&logo=gitbook&logoColor=white)](https://github.com/Iswenzz/IW3SR.Release/blob/master/LICENSE)
 
 ![](https://i.imgur.com/wSxpysl.jpeg)
