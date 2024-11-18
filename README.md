@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/Iswenzz/IW3SR.Release?color=blue&logo=gitbook&logoColor=white)](https://github.com/Iswenzz/IW3SR.Release/blob/master/LICENSE)
 
-![](https://i.imgur.com/wSxpysl.jpeg)
+![](https://i.imgur.com/O6goVqC.jpeg)
 
 IW3SR is a client modification for Call of Duty 4 powered by IzEngine. Enhance gameplay experience and performance through a range of improvements, features such as an in game GUI, a plugin system to reload modules at runtime, interpolation of rotating platforms, Q3 (CPM) and CS movements, CGAZ hud, shaders playing offline, a velocity meter and more.
 
